@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  testapi-chart:
+  - apiVersion: v1
+    created: 2018-07-31T17:24:08.026168133+08:00
+    description: A Helm chart for Kubernetes
+    digest: fcb49c75835b6d731d3a8ee201675aeb039778994b9dc6b8af02c3871fbe1465
+    name: testapi-chart
+    urls:
+    - https://leweili.github.io/posttest3/testapi-chart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-31T17:24:08.025813545+08:00
